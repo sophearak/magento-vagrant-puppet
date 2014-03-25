@@ -66,7 +66,7 @@ This virtual machine is optimized for ease of use.  Therefore it is not meant fo
  * Magento Admin - admin/123123abc
 
 #### Virtual Machine Specifications
- * Ubuntu 12.04 LTS aka "precise32"
+ * Ubuntu 12.04 LTS x64
  * Apache 2.2.22
  * MySQL 5.5.31
  * PHP 5.3.10
