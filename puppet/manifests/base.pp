@@ -17,6 +17,13 @@ package { 'curl':
     ensure => 'present',
 }
 
+package { 'vim':
+    ensure => 'present',
+}
+
+package { 'git':
+    ensure => 'present',
+}
 group { 'puppet':
     ensure => 'present',
 }

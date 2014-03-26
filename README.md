@@ -72,6 +72,7 @@ This virtual machine is optimized for ease of use.  Therefore it is not meant fo
  * PHP 5.3.10
  * Composer
  * Phing 2.5.0 
+ * Vim & Git
 
 See http://magento.localhost:8080/phpinfo.php for more details.
 
